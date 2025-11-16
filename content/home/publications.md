@@ -12,12 +12,12 @@ Northwestern University Technical Report NU-CS-2025-37.
 - H. Qiao, V. Srinivas, P. Dinda, R. Dick,
 Redaction at the Edge: Efficient Human Motion Tracking for Privacy Protection,
 Proceedings of the International Conference on Hardware/Software Codesign and System Synthesis (CODES-ISSS 2025),
-October, 2025.
+October, 2025. \[[paper](papers/qiao25sep.pdf)\]
 
 - M. Polinski, R. Jo, K. McAfee, F. Bustamante,
 The Centralization of a Decentralized Video Platform - A First Characterization of PeerTube,
 ACM SIGCOMM Computer Communication Review, Volume 54, Number 4,
-February, 2025.
+February, 2025. \[[paper](papers/peertube.pdf)\]
 
 - Z. Lin, Z. Yu, Z. Guo, S. Campanoni, P. Dinda, X. Xing,
 CAMP: Compiler and Allocator-based Heap Memory Protection,
